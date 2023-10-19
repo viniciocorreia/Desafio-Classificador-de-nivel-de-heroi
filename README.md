@@ -1,7 +1,7 @@
 
 ## Desafio: Classificador de nível de héroi
 
-Através do Bootcamp: Potência Tech iFood (Pela plataforma DIO), foi proposto pelo instrutor Felipe a elaboração de criar em Javascript um classificador de nível de herói para um jogo.
+Através do Bootcamp: Potência Tech iFood (Pela plataforma DIO), foi proposto pelo instrutor Felipe durante o módulo de "Dominando Estruturas de Controle" a elaboração de criar em Javascript um classificador de nível de herói para um jogo.
 ## Documentação
 
 Abaixo segue documentação disponibilizada para a confecção do código.
